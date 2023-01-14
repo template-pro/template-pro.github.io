@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "home",
   "scripts": {
-    "start": "npm run dev",
-    "dev": "dumi dev",
+    "start": "dumi dev",
     "build": "dumi build",
     "prepare": "husky install && dumi setup"
   },
